@@ -86,9 +86,8 @@ function App() {
             <Button 
               size="lg" 
               className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-lg font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
-              onClick={() => window.open("https://forms.gle/m1XZ71GzzqDtx1AT7", "_blank")}
-            >
-              Entrar na Lista de Espera Gratuita
+              onClick={() => window.open("https://pag.ae/7_Xs9uihL", "_blank")}>
+              Inscreva-se Agora
             </Button>
           </div>
         </div>
@@ -265,9 +264,8 @@ function App() {
           <Button 
             size="lg" 
             className="bg-white text-primary hover:bg-gray-100 px-12 py-6 text-xl font-bold rounded-full shadow-2xl hover:shadow-3xl transition-all duration-300 transform hover:scale-105"
-            onClick={() => window.open("https://forms.gle/m1XZ71GzzqDtx1AT7", "_blank")}
-          >
-            Entrar na Lista de Espera Gratuita
+            onClick={() => window.open("https://pag.ae/7_Xs9uihL", "_blank")}>
+            Inscreva-se Agora
           </Button>
           <p className="text-sm mt-4 opacity-75">
             ✓ Gratuito • ✓ Sem compromisso • ✓ Valor promocional exclusivo
